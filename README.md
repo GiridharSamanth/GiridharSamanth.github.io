@@ -1,1 +1,1 @@
-# curated.github.io
+This is curated list website code
